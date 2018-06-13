@@ -1,5 +1,7 @@
 documentation
+
 INTRODUCING THE CONCEPT OF BAYMAX
+
 The basic idea of our project is inspired from the fictional character baymax starring from the animated scifi movie big hero 6.
 however our project doesnt essentially work the same as baymax but is well concerned about peoples basic health care. While we initially had the idea of working on making a “PERSONAL HEALTH CARE ASSISTANT” we had many ideas , but while linking it to the machine learning concepts our ideas became much complex to work, on so we got ourselves confined to work only on few ideas rather than all of them to maintain perfection of our project
 
